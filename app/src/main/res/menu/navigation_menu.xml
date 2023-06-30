@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuPerfil"
+        android:icon="@drawable/baseline_person_2_24"
+        android:title="perfil" />
+
+    <item
+        android:id="@+id/menuMarcarAsistencia"
+        android:icon="@drawable/baseline_watch_later_24"
+        android:title="Marcar Asistencia"/>
+
+    <item
+        android:id="@+id/menuHorario"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="Horario"/>
+
+    <item
+        android:id="@+id/menuRegistro"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="Registro de Asistencia"/>
+
+</menu>
